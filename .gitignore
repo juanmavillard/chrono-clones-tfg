@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.zip
+*.rar
+*.mp4
+*.pptx
+*.docx
+*.xlsx
+*.gsheet
+*.gform
+.env
+.env.*
+
+# Upload this directory’s ZIP separately as a GitHub Release asset.
+/release-assets/

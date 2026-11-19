@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Chrono Clones"
+message: "Please cite the Bachelor's Final Project when referencing this work."
+authors:
+  - given-names: "Juan María"
+    family-names: "Villard Bardón"
+preferred-citation:
+  type: thesis
+  title: "Diseño e implementación de mecánicas de videojuegos basadas en la dimensión temporal"
+  authors:
+    - given-names: "Juan María"
+      family-names: "Villard Bardón"
+  institution:
+    name: "Universidad Carlos III de Madrid"
+  year: 2024
+  thesis-type: "Bachelor's Final Project"
