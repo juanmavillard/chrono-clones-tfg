@@ -2,7 +2,7 @@
 
 A first-person 3D puzzle game demo built in Unity and C# for my 2024 Bachelor's Final Project in Computer Engineering at Universidad Carlos III de Madrid.
 
-[Read the thesis (Spanish PDF)](docs/chrono-clones-tfg.pdf) · [Windows demo releases](https://github.com/juanmavillard/chrono-clones/releases)
+[Read the thesis (Spanish PDF)](docs/chrono-clones-tfg.pdf) · [Windows demo releases](https://github.com/juanmavillard/chrono-clones-tfg/releases)
 
 You play a scientist experimenting with three types of clones in a laboratory. The goal is to complete eight puzzle rooms within a shared 15-minute time budget. You choose the order of the rooms from a central hub, the **Overworld**, and use the clones to reach each room's exit teleporter.
 
@@ -70,7 +70,7 @@ The small convenience sample helped identify improvements to replay accuracy, co
 
 ## Running the Windows demo
 
-Download the Windows x64 ZIP from [Releases](https://github.com/juanmavillard/chrono-clones/releases), extract the entire archive and run `v1.0.exe`. Keep the accompanying folders and DLLs alongside the executable. The build uses Unity 2022.3.37f1 and the game and tutorial are in Spanish.
+Download the Windows x64 ZIP from [Releases](https://github.com/juanmavillard/chrono-clones-tfg/releases), extract the entire archive and run `v1.0.exe`. Keep the accompanying folders and DLLs alongside the executable. The build uses Unity 2022.3.37f1 and the game and tutorial are in Spanish.
 
 | Keys | Action |
 | --- | --- |
